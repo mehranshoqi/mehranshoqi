@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a [Your Profession] passionate about [Your Int
 
 Check out my portfolio at [www.mehran.monster](https://www.mehran.monster) for a curated selection of my work and to learn more about me.
 
-[![Portfolio Preview](insert_image_url_here)](https://www.mehran.monster)
+[![Portfolio Preview](portfolio.png)](https://www.mehran.monster)
 
 Visit our [website](https://www.pub.dev) for more information.
 
