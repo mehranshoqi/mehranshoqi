@@ -1,13 +1,8 @@
 
 ![Workspace](setup.png)
 
-# Hello, I'm Mehran 👋
+# 🔥    [www.mehran.monster](https://mehran.monster)    🔥
 
-
-#### 🔥  My Projects [here](https://mehran.monster)
-
-#### 🔥 My Skills [here](https://mehran.monster)
-
-#### 🔥 My Experiences [here](https://mehran.monster)
+### My Projects ⬆️  My Skills ⬆️ My Experiences ⬆️
 
 
