@@ -1,36 +1,92 @@
 # Hello, I'm [Your Name] 👋
 
-Welcome to my GitHub profile! I'm a [Your Profession] passionate about [Your Interests]. Feel free to explore my repositories and projects.
+## Voicey - Flutter voice message player
+<!-- <p align="center">
+    <img src="voicey-logos.jpeg" alt="voice message package" width="200" style="border-radius: 50%; overflow:hidden;">
+</p> -->
+<div style="height:6px;"></div>
 
-## 🌐 Portfolio
+<div style="height:32px;"></div>
 
-Check out my portfolio at [www.mehran.monster](https://www.mehran.monster) for a curated selection of my work and to learn more about me.
+![](https://img.shields.io/github/license/mehranshoqi/voice_message_player?color=FF5D73&style=for-the-badge)
+![](https://img.shields.io/github/languages/code-size/mehranshoqi/voice_message_player?color=6FD08C&label=Size&style=for-the-badge)
+![](https://img.shields.io/github/issues/mehranshoqi/voice_message_player?color=E7E393&style=for-the-badge)
+![](https://img.shields.io/pub/v/voice_message_package?color=D1F5FF&style=for-the-badge)
+![](https://img.shields.io/github/last-commit/mehranshoqi/voice_message_player?color=F0F600&style=for-the-badge)
 
-[![Portfolio Preview](portfolio.png)](https://www.mehran.monster)
 
-Visit our [website](https://www.pub.dev) for more information.
+## Demo
 
-## 🚀 Featured Repositories
+<div style="height:24px;"></div>
 
-Here are some of my highlighted projects:
+![k](/images/portfolio.png)
 
-1. **[Project Name 1](link_to_repo_1):** Brief description of the project.
-   [![Project 1 Preview](insert_image_url_here)](link_to_repo_1)
+<div style="height:12px;"></div>
+<p style="font-size: 18px">
+Voicey is a flutter package to play voice messages in chats. Also, you can sicking by dragging on voice noises.
+</p>
+<div style="height:40px;"></div>
 
-2. **[Project Name 2](link_to_repo_2):** Brief description of the project.
-   [![Project 2 Preview](insert_image_url_here)](link_to_repo_2)
+## Platform Support
 
-3. **[Project Name 3](link_to_repo_3):** Brief description of the project.
-   [![Project 3 Preview](insert_image_url_here)](link_to_repo_3)
+| Android | iOS | MacOS | Web |
+| :-----: | :-: | :---: | :-: |
+|   ✔️    | ✔️  |  ✔️   | ✔️  |
 
-## 🔧 Skills
+<div style="height:16px;"></div>
 
-- List some key skills relevant to your projects.
+## Installation
 
-## 📬 Let's Connect
+First add voicey to your pubsbec.yaml file:
 
-- [LinkedIn](your_linkedin_profile)
-- [Twitter](your_twitter_profile)
-- [Email](your_email_address)
+```yml
+dependencies:
+  voice_message_package: <latest-version>
+```
+<div style="height:12px;"></div>
 
-Feel free to reach out, and let's collaborate on something exciting! 🚀
+Next, get package from pub dependencies:
+```dart
+flutter pub get
+```
+
+<div style="height:40px;"></div>
+
+## How to use
+
+All you need is pass your audio file src to VoiceMessage widget:
+```dart
+VoiceMessage(
+  audioSrc: 'YOUR_AUDIO_URL',
+  played: false, // To show played badge or not.
+  me: true, // Set message side.
+  onPlay: () {}, // Do something when voice played.
+);
+```
+
+## Todo
+
+- [✔️] seeking on audio by drag on noises.
+- [ ] add x2 playback speed.
+- [ ] generate noises according to real voice noise.
+- [ ] dynamic size for voice widget.
+- [ ] dynamic size for noises.
+
+<div style="height:40px;"></div>
+
+## License
+
+Licensed under the MIT license. See [LICENSE](https://github.com/mehranshoqi/voice_message_player/blob/master/LICENSE "LICENSE").
+
+<!-- ## Donation
+
+[![Donate with Ripple](https://en.cryptobadges.io/badge/big/r3EazHwqTd7ifeCJj5gm3xdRna71vwmhwp)](https://en.cryptobadges.io/donate/r3EazHwqTd7ifeCJj5gm3xdRna71vwmhwp) -->
+
+
+## Me
+
+:pushpin:Find me at [Portfolio](https://mehran.monster)
+
+
+
+
