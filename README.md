@@ -4,12 +4,10 @@
 # Hello, I'm Mehran 👋
 
 
-##
+### My Projects                  [here](https://mehran.monster)
+
+### My Skills [here](https://mehran.monster)
+
+### My Experiences [here](https://mehran.monster)
 
 
-
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
-| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Czech         | Native language                                                           |
